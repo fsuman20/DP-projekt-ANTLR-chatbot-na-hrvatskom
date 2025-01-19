@@ -1,0 +1,35 @@
+2025-01-19 05:04:22,758 - INFO - Chatbot started
+2025-01-19 15:24:59,532 - INFO - Chatbot started
+2025-01-19 15:59:53,275 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-19 15:59:53,276 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-19 15:59:53,277 - INFO -  * Restarting with stat
+2025-01-19 15:59:53,421 - WARNING -  * Debugger is active!
+2025-01-19 15:59:53,422 - INFO -  * Debugger PIN: 196-796-229
+2025-01-19 15:59:56,519 - INFO - 127.0.0.1 - - [19/Jan/2025 15:59:56] "GET / HTTP/1.1" 200 -
+2025-01-19 15:59:56,623 - INFO - 127.0.0.1 - - [19/Jan/2025 15:59:56] "[36mGET /static/img/logoime.png HTTP/1.1[0m" 304 -
+2025-01-19 15:59:56,668 - INFO - 127.0.0.1 - - [19/Jan/2025 15:59:56] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -
+2025-01-19 16:00:02,268 - INFO - 127.0.0.1 - - [19/Jan/2025 16:00:02] "POST /query HTTP/1.1" 200 -
+2025-01-19 16:00:07,405 - INFO - 127.0.0.1 - - [19/Jan/2025 16:00:07] "POST /query HTTP/1.1" 200 -
+2025-01-19 16:03:21,374 - INFO - 127.0.0.1 - - [19/Jan/2025 16:03:21] "POST /query HTTP/1.1" 200 -
+2025-01-19 16:03:29,365 - INFO - 127.0.0.1 - - [19/Jan/2025 16:03:29] "POST /query HTTP/1.1" 200 -
+2025-01-19 16:03:48,517 - INFO - 127.0.0.1 - - [19/Jan/2025 16:03:48] "POST /query HTTP/1.1" 200 -
+2025-01-19 16:04:08,358 - INFO -  * Detected change in '/home/francek/DP/projekt/app.py', reloading
+2025-01-19 16:04:08,388 - INFO -  * Restarting with stat
+2025-01-19 16:04:08,546 - WARNING -  * Debugger is active!
+2025-01-19 16:04:08,547 - INFO -  * Debugger PIN: 196-796-229
+2025-01-19 16:04:15,976 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-19 16:04:15,976 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-19 16:04:15,976 - INFO -  * Restarting with stat
+2025-01-19 16:04:16,117 - WARNING -  * Debugger is active!
+2025-01-19 16:04:16,117 - INFO -  * Debugger PIN: 196-796-229
+2025-01-19 16:04:18,991 - INFO - 127.0.0.1 - - [19/Jan/2025 16:04:18] "GET / HTTP/1.1" 200 -
+2025-01-19 16:04:19,076 - INFO - 127.0.0.1 - - [19/Jan/2025 16:04:19] "[36mGET /static/img/logoime.png HTTP/1.1[0m" 304 -
+2025-01-19 16:04:19,115 - INFO - 127.0.0.1 - - [19/Jan/2025 16:04:19] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -
+2025-01-19 16:04:24,313 - INFO - 127.0.0.1 - - [19/Jan/2025 16:04:24] "POST /query HTTP/1.1" 200 -
+2025-01-19 16:04:38,628 - INFO - 127.0.0.1 - - [19/Jan/2025 16:04:38] "POST /query HTTP/1.1" 200 -
+2025-01-19 16:04:45,496 - INFO - 127.0.0.1 - - [19/Jan/2025 16:04:45] "POST /query HTTP/1.1" 200 -
+2025-01-19 22:03:12,145 - INFO - Chatbot started
+2025-01-19 22:04:39,219 - INFO - Chatbot started
+2025-01-19 22:04:55,114 - INFO - Chatbot started
